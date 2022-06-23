@@ -5,6 +5,7 @@
 
 ><h2>About</h2>
 >I built a Landing page with HTML, CSS and JS inspired by the  homepage streaming.
+><br>
 >This challenge took place at the Digital Innovation One Bootcamp and aims to train Frontend skills.
 ><br>
 ><br>
